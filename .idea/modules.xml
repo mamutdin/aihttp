@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AioHttp.iml" filepath="$PROJECT_DIR$/.idea/AioHttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/aiohttp.iml" filepath="$PROJECT_DIR$/.idea/aiohttp.iml" />
     </modules>
   </component>
 </project>
