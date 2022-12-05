@@ -68,12 +68,3 @@ def patch_user(person_id: int, patch: dict) -> dict:
 
 def delete_user(person_id: int) -> dict:
     return base_request("delete", f"people/{person_id}")
-
-
-# create_user(2)
-# print(create_user(1))
-
-# print(get_user(1))
-print(patch_user(2, {'json': '123455'}))
-print(get_user(2))
-delete_user(2)
